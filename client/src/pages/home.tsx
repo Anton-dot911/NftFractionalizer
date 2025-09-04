@@ -37,8 +37,8 @@ export default function Home() {
           {/* Hero Section */}
           <div className="mb-8 relative">
             <img 
-              src="https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600" 
-              alt="Abstract cryptocurrency and blockchain visualization" 
+              src="/attached_assets/IMG_1883_1756984175028.jpeg" 
+              alt="Web3 platform hero image" 
               className="rounded-2xl shadow-2xl w-full h-80 object-cover glow-effect"
               data-testid="img-hero"
             />
