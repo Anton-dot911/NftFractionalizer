@@ -37,7 +37,7 @@ export default function Home() {
           {/* Hero Section */}
           <div className="mb-8 relative">
             <img 
-              src="/attached_assets/IMG_1883_1756984175028.jpeg" 
+              src="/attached_assets/IMG_1883_1756986915977.jpeg" 
               alt="Web3 platform hero image" 
               className="rounded-2xl shadow-2xl w-full h-80 object-cover glow-effect"
               data-testid="img-hero"
